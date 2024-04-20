@@ -176,10 +176,10 @@ CNAME    www      reto3.toysnt.shop
 
 - Ahora podemos ejecutar el comando docker compose up para dejar la instancia de Wordpress corriendo correctamente y que podamos editar la página desde la página de administración de contenido.
 
-![screenshot 2024-04-20 (6)](https://github.com/EsteTruji/st0263-reto-3/assets/83479274/a5e741f7-484d-4fbd-819d-1cc221065062)
+![screenshot 2024-04-20 (6)](https://github.com/EsteTruji/st0263-reto-3/assets/83479274/b7de5512-d1b1-4f4f-a1f9-015746c13da0)
 
 
-![screenshot 2024-04-20 (7)](https://github.com/EsteTruji/st0263-reto-3/assets/83479274/5b0843a7-4acc-43f2-98a1-b638659a34b5)
+![screenshot 2024-04-20 (7)](https://github.com/EsteTruji/st0263-reto-3/assets/83479274/8cf628c1-65a8-4010-b2ee-2f1071f2dff4)
 
 
 - Finalmente, vamos a configurar la instancia de load balancer, que como ya habíamos mencionado, nos permitirá distribuir las cargas de las peticiones entre las dos instancias de Wordpress que tenemos. Para este proyecto utilizaremos el balanceador NGINX.
