@@ -47,7 +47,7 @@ Se implementó para este proyecto la siguiente arquitectura basada en la propues
 
 [Diagrama](https://drive.google.com/file/d/11rlnW3-tqprr7dtQRbYrXvi0q4SP7CP8/view?usp=sharing)
 
-![Reto3-TT drawio](https://github.com/EsteTruji/st0263-reto-3/assets/81714113/2c14edb4-a5c9-40be-aeb5-a9f91cfdc248){ width=300px }
+![Reto3-TT drawio](https://github.com/EsteTruji/st0263-reto-3/assets/81714113/2c14edb4-a5c9-40be-aeb5-a9f91cfdc248)
 
 ## 3. Descripción del ambiente de ejecución lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
