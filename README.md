@@ -56,10 +56,28 @@ Se implementó para este proyecto la siguiente arquitectura basada en la propues
 
 ## 3. Descripción del ambiente de ejecución lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
-- IP o nombres de dominio en nube o en la máquina servidor.
 
-Para la instancia de Load Balancer:
-  - .
+IPs Correspondientes a cada una de las 6 instancias utilizadas en el reto 3:
+
+IPs Privadas:
+
+- WordPress: 10.0.129.104
+- WordPress2: 10.0.138.82
+- Load balancer: 10.0.10.150
+- DataBase: 10.0.134.183
+- NFS: 10.0.138.240
+- Bastion Host: 10.0.3.155
+
+IPs Públicas:
+- Load balancer: 3.234.42.123
+- Bastion Host: 35.175.224.118
+
+Para garantizar el correcto desarrollo y cumplimiento de los requisitos del reto 3 se instaló Docker dentro de 4 instancias, las cuales fueron: las 2 instancias dedicadas a WordPress, la instancia del load balancer y la instancia donde se desplego la base de datos.
+
+Por ultimo, tambien se istalaron los siguientes paquetes dentro de la instancia utilizada para el load balancer:
+- certbot 2.10.0
+- letsencrypt 2.10.0
+- nginx 1.25.5
 
 
 
