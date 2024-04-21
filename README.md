@@ -35,10 +35,10 @@ A nivel de recursos, se desplegaron (5) maquinas virtuales en aws academy.
    
 
 **FUNCIONALES**
--	Almacenamiento en la capa de datos con una instancia de bases de datos mysql
+-	Almacenamiento en la capa de datos con una instancia de bases de datos mysql.
 - Almacenamiento de archivos con una instancia de archivos distribuidos implementado con servicio NFS.
 - Conexion de servicios de wordpress con servicio NFS.
-- Utilización de https
+- Utilización de https.
 
 
 
