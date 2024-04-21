@@ -13,7 +13,8 @@
 
 # Video sustentación
 [![Video sustentacion](https://i9.ytimg.com/vi_webp/gDpiXgXeUiM/mq3.webp?sqp=CNC6krEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyg6MA8=&rs=AOn4CLCb5bybaUKPS6t3rYw_oJ573G7SMg)]([https://www.youtube.com/watch?v=xtq0iNkTtXY](https://youtu.be/gDpiXgXeUiM))
- Enlace: **_https://www.youtube.com/watch?v=xtq0iNkTtXY](https://youtu.be/gDpiXgXeUiM_**
+
+- Enlace: **_https://www.youtube.com/watch?v=xtq0iNkTtXY](https://youtu.be/gDpiXgXeUiM_**
 
 ## 1. Breve descripción de la actividad
 Se desplegó un CMS wordpress (app monolítica) en una arquitectura distribuida haciendo uso de tecnologías como Docker, proveedores de dominio como GoDaddy y servicios de AWS.
